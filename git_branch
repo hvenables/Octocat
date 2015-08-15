@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a duplication of the master branch that can be worked on and have commits that won’t affect the master branch. This is usually used to test experimental changes or functions without having to affect the master files. If the test is successful then the branch can be merged into the master branch or discarded if not needed.
